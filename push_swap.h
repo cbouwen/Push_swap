@@ -6,7 +6,7 @@
 /*   By: cbouwen <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/02 13:36:29 by cbouwen           #+#    #+#             */
-/*   Updated: 2023/09/06 11:38:10 by cbouwen          ###   ########.fr       */
+/*   Updated: 2023/09/06 15:06:14 by cbouwen          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,10 +17,6 @@
 # include "Printf/ft_printf.h"
 # include <limits.h>
 # include <stdbool.h>
-# include <stddef.h>
-# include <stdio.h>
-# include <stdlib.h>
-# include <unistd.h>
 
 # define SA 0
 # define SB 1
